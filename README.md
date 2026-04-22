@@ -21,7 +21,7 @@ A web-based portal to manage **freelance field workers** for various services, b
 
 ## 🚀 Features
 
-- 🔐 Admin login and session management  
+- 🔐 Admin login and session management 
 - 👷 Add and manage freelance workers  
 - 📦 Track and fulfill service orders  
 - 💬 Collect and view customer feedback  
